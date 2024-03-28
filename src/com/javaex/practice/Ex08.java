@@ -18,7 +18,7 @@ public class Ex08 {
 		
 		double bmi;
 		
-		bmi = (w / h * h);
+		bmi = w / (h * h) * 10000;
 		
 		String jansori;
 		
